@@ -1,7 +1,8 @@
 # Girls Night app site
 
-Privacy and contact pages for Girls Night by Nordgren Studio.
+Privacy and support pages for Girls Night by Nordgren Studio.
 
+- Support: https://anordgren.github.io/girlsnight-app/support/
 - Privacy: https://anordgren.github.io/girlsnight-app/privacy/
 - Home: https://anordgren.github.io/girlsnight-app/
 - Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
